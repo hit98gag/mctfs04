@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mctfs04/static/css/main.b7dabefc.css",
+    "main.js": "/mctfs04/static/js/main.f07172f5.js",
+    "static/media/WhatsApp Image 2023-05-02 at 21.23.39.jpg": "/mctfs04/static/media/WhatsApp Image 2023-05-02 at 21.23.39.28d0ff1b2891c484f157.jpg",
+    "index.html": "/mctfs04/index.html",
+    "main.b7dabefc.css.map": "/mctfs04/static/css/main.b7dabefc.css.map",
+    "main.f07172f5.js.map": "/mctfs04/static/js/main.f07172f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7dabefc.css",
+    "static/js/main.f07172f5.js"
+  ]
+}
